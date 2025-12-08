@@ -11,3 +11,6 @@ Google Chrome extension that shows you a new definition every time you open a ne
 1. Check "Developer Mode" in the upper right
 1. Click "Unload Packed Extension..." and select the cloned repo folder
 1. Done! :tada: :balloon: :confetti_ball: :tada: :balloon: :confetti_ball:
+
+
+This is a fork of the original repo that uses the [Wordset dictionary](https://github.com/wordset/wordset-dictionary) since the original GRE dictionary data is broken.
